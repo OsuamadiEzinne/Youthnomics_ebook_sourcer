@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Android eBook Template/Android eBook Template.iml" filepath="$PROJECT_DIR$/Android eBook Template/Android eBook Template.iml" />
+      <module fileurl="file://$PROJECT_DIR$/google-play-services_lib/google-play-services_lib.iml" filepath="$PROJECT_DIR$/google-play-services_lib/google-play-services_lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Android eBook Template/src/com/jeremyfeinstein/slidingmenu/slidingmenu.iml" filepath="$PROJECT_DIR$/Android eBook Template/src/com/jeremyfeinstein/slidingmenu/slidingmenu.iml" />
+    </modules>
+  </component>
+</project>
